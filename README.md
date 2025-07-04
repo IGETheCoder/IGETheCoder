@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IGETheCoder
 - 👀 I’m interested in Unity Development.
-- 🌱 I’m currently creating my first serious game.
+- 🌱 I’m currently creating my first game.
 - 📫 How to reach me - don't.
 - ⚡ Fun fact: I have coded Unity Projects since I was 9
 
